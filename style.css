@@ -1,15 +1,10 @@
-/* * {
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-} */
-
 .backlogo {
     background-image: url("img/pattern.png");
     background-color: rgb(30, 144, 255);
     height: 27vh;
     width: 100%;
     position: relative;
+    
 }
 
 #logo {
@@ -51,12 +46,8 @@ ul {
     line-height: 0.9em;
   }
 
-  .tab {
-    width: 20%;
-    text-align: left;
-  }
-
-  table {
+  
+table {
     width: 100%;
     margin: auto;
     table-layout: fixed;
@@ -64,13 +55,13 @@ ul {
     margin-top: 30px;
 }
 
-table, th, td{
+table, th, td {
     
     border-collapse: collapse;
     
 }
 
-th{
+th {
     color: white;
     background-color: #1E90FF;
 }
@@ -80,4 +71,10 @@ td {
 }
 .row-white {
     background-color: white;
+}
+
+.last-img {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
