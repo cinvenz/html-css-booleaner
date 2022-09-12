@@ -1,4 +1,4 @@
-.headerlogo {
+* {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
@@ -13,9 +13,17 @@
 }
 
 #logo {
-    width: 25%;
+    width: 20%;
     height: auto;
     position: absolute;
     bottom: 20px;
     left: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.subtitle {
+    font-size: 24px;
 }
