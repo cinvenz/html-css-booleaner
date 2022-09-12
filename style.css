@@ -1,0 +1,21 @@
+.headerlogo {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.backlogo {
+    background-image: url("img/pattern.png");
+    background-color: rgb(30, 144, 255);
+    height: 27vh;
+    width: 100%;
+    position: relative;
+}
+
+#logo {
+    width: 25%;
+    height: auto;
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
